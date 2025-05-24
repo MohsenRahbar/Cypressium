@@ -24,7 +24,7 @@ A comprehensive testing framework for API and UI validation using Cypress
 1. Clone repository:
 ```bash
 git clone https://github.com/MohsenRahbar/Cypressium.git
-cd simple-api-test-with-cypress
+cd cypress/e2e/test.cy.ts
 ```
 
 2. Install dependencies:
