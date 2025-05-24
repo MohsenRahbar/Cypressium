@@ -23,7 +23,7 @@ A comprehensive testing framework for API and UI validation using Cypress
 ### Installation
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/simple-api-test-with-cypress.git
+git clone https://github.com/MohsenRahbar/Cypressium.git
 cd simple-api-test-with-cypress
 ```
 
